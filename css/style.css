@@ -2,6 +2,8 @@ body {
     font-size: 16px;
     margin-left: 26px;
     font-family:  'Cabin', sans-serif;
+    background: black;
+    color: white;
 }
 
 header h1, h3 {
